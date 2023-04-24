@@ -62,7 +62,7 @@
  /* End Navbar */
  /* Start Landing */
  .landing .img1 {
- background-image: url(/images/city2.jpg);
+ background-image: url("images/city2.jpg");
  height: 600px;
  }
  .landing{
@@ -86,13 +86,13 @@
 
 /*  start main  */
 .main{
-  background-image: url(/images/3.png);
+  background-image: url("images/3.png");
   opacity: 80% ;
 }
 /*  end main  */
 /* cards */
 .sol{
-  background-image: url(/images/6.png);
+  background-image: url("images/6.png");
  
 }
 .sol .card{
